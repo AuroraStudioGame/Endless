@@ -1,2 +1,2 @@
 # Endless
-Express Node React WebGL game
+Express Node backend
